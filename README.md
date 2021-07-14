@@ -1,2 +1,14 @@
 # Microsoft Turkey Student Ambassador Projects
  Project assignments of the Microsoft Student Ambassador Program organized by Microsoft Turkey in 2020/2021
+Turkish
+    1-Vision API - Belirlediğiniz 5 farklı görsel üzerinde Computer Vision API ile Analyze API, OCR, Face API ve Emotion API'ları kullanmak. 
+	2-Vision API - Custom Vision üzerinde bir çikolata veya evinizdeki bir ürünün tanıma modeli geliştirmek 
+	3-Speech API - Speech to Text Bir mp4 veya wav ses kaydının Türkçe metine dönüştürülmesi 
+	4-Search API - Bing News Search API ile belirlediğiniz bir kelime geçen tüm haberleri yazdırmak. 
+	5-Decision API - Bing News Search API aldığınız metindeki her cümlenin sentiment analizini Text Analytics API ile yapmak.
+English
+    1-Vision API-use Computer Vision API and Analyze API, OCR, Face API and Emotion API on 5 different images that you specify. 
+	2-Vision API-developing a chocolate or recognition model of a product in your home on Custom Vision 
+	3 - Speech API-Speech to Text converting an mp4 or wav audio recording to Turkish text 
+	4 - Search API-with the Bing News Search API, you can print all news that passes a word that you specify. 
+	5 - decision API-Bing News Search API to analyze the sentiment of each sentence in the text you receive using the Text Analytics API.
