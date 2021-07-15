@@ -1,0 +1,18 @@
+# Microsoft Turkey Student Ambassador Project 1
+ Project assignments of the Microsoft Student Ambassador Program organized by Microsoft Turkey in 2020/2021
+ ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Turkish
+	*Türkiye'nin verileri ile seçtiğiniz diğer iki ülkenin kıyaslanması.
+	*En az bir tane zamana bağlı bir grafik oluşturulması.
+	*Bir tane harita kullanabileceğiniz bir analiz yapılması.
+	*Toplamda en beş tane grafik kullanmanız.
+	*Bir tane de datasette olmayan bir datayı sizin hesaplama yaparak oluşturmanızı bekliyoruz. Mesela vaka/ölüm oranı gibi mevcut bilgileri kullanıp datasette olmayan bir veri çıkarılması.
+	*Ekstra olarak daha advance bir şeyler yapmak isteyenler, incelediğiniz ülkelerin eğitim,  GDP gibi başka alanlardaki veriler ile ilişkilendirerek bir analiz yapabilirler.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+English
+    	* Comparison of Turkey's data with the other two countries of your choice.
+	* Create at least one time-dependent chart.
+	* Make an analysis that you can use one map.
+	* Use the top five charts in total.
+	* We expect you to create a data that is not in a dataset by making calculations. For example, using existing information such as Case/death rate to extract data that is not in the dataset.
+	* Those who want to do something more advanced as an extra can do an analysis by linking the countries you are studying with data in other areas, such as education, GDP.
