@@ -1,0 +1,20 @@
+# Microsoft Turkey Student Ambassador Project 3
+ Project assignments of the Microsoft Student Ambassador Program organized by Microsoft Turkey in 2020/2021
+ ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Turkish
+ 3. proje ödevimiz Azure ML ile ilgili olacak.Power Bi dashboardını oluşturduğunuz veri seti ile ölüm sayısı tahminleme modeli geliştirmenizi istiyoruz. 
+	*Dataseti Azure ML'de register ediniz.
+	*Dataseti iyileştimek için ek veriler ekleyip/düzenleyebilirsiniz.(tarih kırılımları etc)
+	*Designer'da verinin son hali ile tahminleme modelini, test çıktısını ve modelin başarısını hazırlayınız.
+	*Automl'de de aynı veriseti ile predicition ve timeseries modeli oluşturup model başarısını hazırlayınız.
+	*Aldığınız sonuçların ekran görüntüsünü alarak, veriyi düzenlediyseniz yaklaşımınızı açıklayarak 4-5 slaytlık bir sunumda yaklaşımınızı ve aldığınız çıktıları anlatmanızı bekliyoruz.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+English
+    	3. our project assignment will be about Azure ML.We want you to develop a death count prediction model with the data set that you created on the Power BI dashboard.
+
+	*Register the dataset in Azure ML.
+	*You can add/edit October data to improve the dataset.(date breaks etc.)
+	*In designer, prepare the final version of the data and the prediction model, test output, and success of the model.
+	*Create a prediction and timeseries model with the same data in AutoML and prepare the model success.
+	*By taking a screenshot of the results you received, we expect you to explain your approach and the results you received in a 4-5-slide presentation, explaining your approach if you edited the data.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
