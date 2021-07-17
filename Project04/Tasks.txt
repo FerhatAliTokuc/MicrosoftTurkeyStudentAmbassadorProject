@@ -1,0 +1,24 @@
+# Microsoft Turkey Student Ambassador Project 3
+ Project assignments of the Microsoft Student Ambassador Program organized by Microsoft Turkey in 2020/2021
+ ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Turkish
+
+	*Bot Composer Framework kurulumunun ve LUIS key entegrasyonunun yapılması : Tutorial: Add language understanding to bot - Bot Composer | Microsoft Docs
+	*Örnek botlardan Adaptive Card botunun başarılı şekilde çalıştırılması : Respond to users with cards - Bot Composer | Microsoft Docs
+	*Dilediğiniz bir seneryoda en az 5 niyeti anlayan (Örneğin Türkiye covid yasakları , covid vefat sayısı güncel sayısı, covid vaka sayısı, izin başvuru belgesi alımı etc. veya sipariş süreci, iade süreci, müşteri formu doldurtma, iletişim bilgileri etc. ) bir bot'un luis entegre geliştirilmesi. 
+	*Botun demosunun ekran kaydı ile videosunun paylaşılması
+	**Opsiyonel : QNA entegre edilmesi ve statik cevabı olan sık soruların tanımlanması (Örnek: Kaç yaşındasın - Botların yaşı olmaz. , Benimle evlenir misin? - Botlar maalesef evlenemiyor etc.) : Add a QnA Maker knowledge base to your bot - Bot Composer | Microsoft Docs
+	**Opsiyonel: Botun publish edilmesi ve örnek bir websitede erişilebilir olunması : Publish a bot to Azure - Bot Composer | Microsoft Docs
+	*Power Virtual Agent free trial hesabın aktifleştirilmesi ve mevcutta yer alan türkçe bir botun çalıştırılması.
+	*Bot composer da geliştirilen botun benzer şekilde Power Virtual Agent'ta da geliştirilmesi. Örnek botun ekran kaydının alınıp video olarak paylaşılması.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+English
+    	*Bot Composer Framework Installation and LUIS key integration Tutorial: Add language understanding to bot-Bot Composer / Microsoft Docs
+	*Successful execution of Adaptive Card bot from sample bots: response to users with cards-Bot Composer | Microsoft Docs
+	*At least 5 intentions are understood in a seneryo of your choice (e.g. covid bans in Turkey , current number of covid deaths, number of covid cases, receipt of permission application document, etc. or order process, return process, customer form filling, contact information etc. ) the luis integrated development of a bot. 
+	*Sharing video of bot demo with Screen Recording
+	**Optional: integrating QNA and defining frequent questions with static answers (example: how old are you - bots don't age.  Will you marry me?  Boots, unfortunately, can't get married.): Add a QnA Maker knowledge base to your bot-Bot Composer / Microsoft Docs
+	**Optional: publish the bot and make it accessible on a sample website: Publish a bot to Azure-Bot Composer / Microsoft Docs
+	*Activate the Power Virtual Agent free trial account and run the existing Turkish bot.
+	*Bot composer is also developed in Power Virtual Agent. Example taking a bot screen recording and sharing it as a video.
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
