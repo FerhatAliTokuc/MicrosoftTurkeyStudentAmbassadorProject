@@ -1,5 +1,5 @@
-# Microsoft Turkey Student Ambassador Projects
-Microsoft Student Ambassador Program(Local)
+# Microsoft Turkey Student Ambassador Projects 2021
+Microsoft Student Ambassador Program 2021 (Local)
 
 It is an 8-month program run by Microsoft Turkey office. A total of 60 students are included in this program by choosing two people from 30 selected universities. It includes many technical training and experience sharing sessions. In addition, students are provided with certification exam support and mentor support.
 The ambassadors organized events in many universities with the support of Microsoft Turkey office.
