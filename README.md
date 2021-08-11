@@ -6,3 +6,4 @@ The ambassadors organized events in many universities with the support of Micros
 It is a very useful program that opens the knowledge level and horizons of the students towards the sector.
 
 * This program is run independently of the Microsoft Learn Student Ambassador event.
+* This program is finished as of August.
